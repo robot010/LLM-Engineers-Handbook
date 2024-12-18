@@ -8,3 +8,6 @@ repos:
     rev: v8.18.2
     hooks:
       - id: gitleaks
+        entry: gitleaks
+        language: system
+      
